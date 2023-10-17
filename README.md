@@ -1,1 +1,1 @@
-                                ![alt text](https://github.com/SlmnFz/SlmnFz/blob/main/3x23.gif)
+![alt text](https://github.com/SlmnFz/SlmnFz/blob/main/3x23.gif)
