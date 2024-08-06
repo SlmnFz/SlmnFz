@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/SlmnFz/SlmnFz/blob/main/3x23.gif)
 
-## 👋 Hello, I'm Salman Fz
+## 👋 Hello, I'm SalmanFz
 
 I'm a passionate backend developer with a focus on Node.js. I have experience building robust REST APIs and working with WebSockets to create real-time applications. I love diving into complex problems and coming up with scalable solutions.
 
