@@ -12,8 +12,8 @@ I'm a passionate backend developer with a focus on Node.js. I have experience bu
 - **Databases**: MongoDB, PostgreSQL, Redis, Influxdb
 
 ### 📈 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SlmnFz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SlmnFz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+<img src="https://myreadme.vercel.app/api/embed/SlmnFz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
 ### 🌟 Notable Projects
 - [fz-keyboard-converter](https://github.com/SlmnFz/fz-keyboard-converter): A Node.js package for converting keyboard inputs between Persian and English character sets.
