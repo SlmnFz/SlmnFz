@@ -7,8 +7,7 @@
 I'm a passionate backend developer with a focus on Node.js. I have experience building robust REST APIs and working with WebSockets to create real-time applications. I love diving into complex problems and coming up with scalable solutions.
 
 ### 🔧 Technologies & Tools
-- **Languages**: JavaScript, TypeScript
-- **Frameworks**: Express, Fastify, SocketIO
+- **Languages**: JavaScript, TypeScript, Python
 - **Databases**: MongoDB, PostgreSQL, Redis, Influxdb
 
 ### 📈 GitHub Stats
