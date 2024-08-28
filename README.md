@@ -19,6 +19,9 @@ I'm a passionate backend developer with a focus on Node.js. I have experience bu
 
 - [regex-generator](https://github.com/SlmnFz/regex-generator): RegexGenerator is a JavaScript class that helps in constructing various regular expressions for validation purposes.
 
+- [fzDownloader Bot](https://t.me/fzDownloader_bot): A Telegram bot for downloading content from platforms like YouTube, Spotify, Instagram, Twitter, and more. Simply send a link, and it returns the file.
+
+
 ### 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/SalmanFz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
