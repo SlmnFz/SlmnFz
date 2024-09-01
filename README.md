@@ -11,8 +11,7 @@ I'm a passionate backend developer with a focus on Node.js. I have experience bu
 - **Databases**: MongoDB, PostgreSQL, Redis, Influxdb
 
 ### 📊 GitHub Overview
-![SalmanFz's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlmnFz&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SlmnFz&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SlmnFz&layout=compact&theme=radical&hide_progress=true)
 
 
 ### 🌟 Notable Projects
