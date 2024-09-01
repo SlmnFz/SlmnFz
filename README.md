@@ -10,8 +10,9 @@ I'm a passionate backend developer with a focus on Node.js. I have experience bu
 - **Languages**: JavaScript, TypeScript, Python, Golang
 - **Databases**: MongoDB, PostgreSQL, Redis, Influxdb
 
-### 📈 GitHub Stats
-<img src="https://myreadme.vercel.app/api/embed/SlmnFz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+### 📊 GitHub Overview
+![SalmanFz's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlmnFz&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SlmnFz&layout=compact&theme=radical)
 
 
 ### 🌟 Notable Projects
