@@ -24,7 +24,7 @@ I'm a passionate backend developer with a focus on Node.js. I have experience bu
 
 - [fzDownloader Bot](https://t.me/fzDownloader_bot): A Telegram bot for downloading content from platforms like YouTube, Spotify, Instagram, Twitter, and more. Simply send a link, and it returns the file.
 
-- [tasteFinder_bot](https://t.me/TasteFind_bot): A Telegram bot for getting recommendations on books, movies, music, shows or games based on [TasteDive API](https://tastedive.com/).
+- [tasteFinder_bot](https://t.me/TasteFind_bot): A Telegram bot for getting recommendations on books, movies, music, shows or games.
 
 
 ### 🌐 Connect with Me
