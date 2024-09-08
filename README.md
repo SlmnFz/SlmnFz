@@ -18,9 +18,9 @@ I'm a passionate backend developer with a focus on Node.js. I have experience bu
 
 
 ### 🌟 Notable Projects
-- [fz-keyboard-converter](https://github.com/SlmnFz/fz-keyboard-converter): A Node.js package for converting keyboard inputs between Persian and English character sets.
+- [fz-keyboard-converter](https://www.npmjs.com/package/fz-keyboard-converter): A Node.js package for converting keyboard inputs between Persian and English character sets.
 
-- [regex-generator](https://github.com/SlmnFz/regex-generator): RegexGenerator is a JavaScript class that helps in constructing various regular expressions for validation purposes.
+- [regex-generator](https://www.npmjs.com/package/fz-regex-generator): RegexGenerator is a JavaScript class that helps in constructing various regular expressions for validation purposes.
 
 - [fzDownloader Bot](https://t.me/fzDownloader_bot): A Telegram bot for downloading content from platforms like YouTube, Spotify, Instagram, Twitter, and more. Simply send a link, and it returns the file.
 
