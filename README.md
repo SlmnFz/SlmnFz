@@ -6,18 +6,15 @@
 
 ## 👋 Hello, I'm SalmanFz
 
+🚀 **Back-end Developer** | **Open-source Enthusiast** | **Web Scraping Aficionado** 🚀
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <a href="mailto:salmanfz1681@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/SalmanFz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-### 📊 GitHub Overview
-![SalmanFz's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=SlmnFz&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SlmnFz&layout=compact&theme=radical&hide_progress=true)
-
-### 🌟 Projects
+<div align="left">
+  <h3>💼 Projects</h3>
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   
   <!-- Project Card 1 -->
@@ -41,9 +38,14 @@
   </div>
   
 </div>
+</div>
 
 
-### 🌐 Connect with Me
-<a href="https://www.linkedin.com/in/SalmanFz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 </div>
