@@ -14,7 +14,6 @@
 </p>
 
 <div align="left">
-  <h3>💼 Projects</h3>
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   
   <!-- Project Card 1 -->
