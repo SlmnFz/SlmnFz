@@ -6,7 +6,7 @@
 
 ## 👋 Hello, I'm SalmanFz
 
-🚀 **Back-end Developer** | **Open-source Enthusiast** | **Web Scraping Aficionado** 🚀
+🚀 **Back-end Developer** 🚀
 
 <p align="center">
   <a href="mailto:salmanfz1681@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
