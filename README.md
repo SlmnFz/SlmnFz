@@ -15,6 +15,8 @@
 
 <div align="left">
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 300px; background-color: #1e1e1e; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;"> <p style="color: #61dafb;"><a href="https://github.com/SlmnFz/GoLoad" style="text-decoration: none; color: #61dafb;">GoLoad</a> : <span style="color: #e0e0e0;">A simple, modular HTTP load balancer written in Go, designed for high availability and extensibility.</span></p> </div>
   
   <!-- Project Card 1 -->
   <div style="flex: 1; min-width: 300px; background-color: #1e1e1e; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
